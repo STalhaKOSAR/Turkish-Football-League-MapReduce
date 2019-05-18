@@ -60,7 +60,7 @@ Use Makefile to run each of them but make sure that when you open a Terminal run
 ```bash 
 make ready
 ```
-
+Example input file created by inputCreator is given under /input directory. Which has match results from 2014 - 2015 Season TFF SuperLeague.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
