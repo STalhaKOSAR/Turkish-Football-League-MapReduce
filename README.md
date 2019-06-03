@@ -1,4 +1,4 @@
-# Turkish Football League-MapReduce
+# Turkish Football League MapReduce
 Create inputs from TFF website and process it in MapReduce
 
 ## Installation
